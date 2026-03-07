@@ -113,7 +113,9 @@ Figure generation scripts will be added upon publication. All core algorithms an
 
 ### Citation
 
-Mapping protein neutral networks from predicted secondary structure
-Nabiha Khawar, Sebastian E. Ahnert
-Preprint: bioRxiv 2026.03.04.709605 https://doi.org/10.64898/2026.03.04.709605
-Submitted manuscript: under review at Royal Society Interface. Citation will be updated upon publication.
+**Mapping protein neutral networks from predicted secondary structure**  
+*Nabiha Khawar, Sebastian E. Ahnert*  
+
+Preprint: bioRxiv — [https://doi.org/10.64898/2026.03.04.709605](https://doi.org/10.64898/2026.03.04.709605)  
+
+Submitted manuscript: under review at *Royal Society Interface*. Citation will be updated upon publication.
