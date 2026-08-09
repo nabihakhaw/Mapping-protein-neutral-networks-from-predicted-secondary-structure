@@ -109,13 +109,10 @@ python3 neighbourhood_enumeration.py \
 
 ### Reproducibility
 
-Figure generation scripts will be added upon publication. All core algorithms and data-generation pipelines are included. The repository is structured to enable full regeneration of neutral component estimates from raw sequence inputs.
+The repository is structured to enable full regeneration of neutral component estimates from raw sequence inputs.
 
 ### Citation
 
 **Mapping protein neutral networks from predicted secondary structure**  
-*Nabiha Khawar, Sebastian E. Ahnert*  
-
-Preprint: bioRxiv — [https://doi.org/10.64898/2026.03.04.709605](https://doi.org/10.64898/2026.03.04.709605)  
-
+*Nabiha Khawar, Sebastian E. Ahnert*
 Submitted manuscript: under review at *Royal Society Interface*. Citation will be updated upon publication.
